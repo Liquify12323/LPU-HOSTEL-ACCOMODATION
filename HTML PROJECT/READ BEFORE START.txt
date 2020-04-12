@@ -1,0 +1,17 @@
+RESPECTED SIR,
+
+THESE FILES ARE NOT IN ORDER SO THE PROJECT WOULD RUN WITHOUT ANY CONFUSION.
+
+THE CSS ARE IN CSS FOLDER.
+
+ALL THE CODES OF PAGES ARE IN CODES FOLDER.
+
+AND THE ORDER OF PAGES ARE:
+1)SIGN IN PAGE
+2)INDEX
+3)HOSTEL BOOKING PAGE
+4)HOSTEL INFO
+5)FINAL.
+                                                                  THANKING YOU:
+                                                                ROLL NO:9,10,11,12
+                                                                       K19XC
